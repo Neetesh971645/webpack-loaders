@@ -1,7 +1,7 @@
 //import './css/main.css';
 //import './scss/main.scss';
 
-import {hello, sup} from './js/module'; //to export JS file, you don't need to JS extension.
+import {hello, sup} from './js/module'; //to export JS file, you don't need to add JS extension.
 
 hello();
 sup();
